@@ -13,3 +13,4 @@ dist/
 # Editor directories
 .vscode/
 .idea/
+.vercel
